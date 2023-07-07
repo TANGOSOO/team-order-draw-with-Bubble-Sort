@@ -1,9 +1,9 @@
 Trabalho para a matéria de progamação computacional do primeiro périodo de engenharia de computação da UFC.
 
 Equipe:
-Gabriel Meireles Soares
-Leonardo Mendes Coutinho
-Carlos André Monteiro do Amaral Filho
+Gabriel Meireles Soares,
+Leonardo Mendes Coutinho,
+Carlos André Monteiro do Amaral Filho.
 
 Como usar:
 
